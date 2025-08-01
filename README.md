@@ -7,5 +7,5 @@ This repo contains a cleaned and fully cleaned notebook from a lab of the IBM Ma
 - Step by Step Data Cleaning
 - Reproducible code snippets
 
-  ## 💡Purpose
-  This is a part of my hands-on Machine Learning portfolio. I'm sharing this to demonstrate the skills that I have learnt in data wrangling and preprocessing
+## 💡Purpose
+This is a part of my hands-on Machine Learning portfolio. I'm sharing this to demonstrate the skills that I have learnt in data wrangling and preprocessing
